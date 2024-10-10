@@ -2,12 +2,9 @@
 
 ### Hi, I’m **Rumeasiyan**! 👋
 I’m a **Full Stack Software Engineer** 💻 with a year of experience, specializing in technologies like:
-- **Java** ☕
-- **PHP** 🐘
-- **Laravel** 🌐
-- **JavaScript frameworks** (including **React** ⚛️ and **Next.js** 📦)
-- **Python** 🐍 (with a focus on **Machine Learning** 🤖)
-- **.NET** 🖥️
+- **Backend Development** with **PHP (Laravel)** 🐘  
+- **Frontend Development** using **JavaScript (Next.js)** 📦  
+- **Machine Learning** with **Python** 🐍  
 
 ### 🚀 Projects I’m Proud Of:
 1. **AI Weather Application**: Provides weather and location-based activity suggestions ☀️🌧️.
