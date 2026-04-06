@@ -18,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@rumeasiyan__s-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rumeasiyan_s/)
 [![Facebook](https://img.shields.io/badge/👥_Facebook-RumeasiyanS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RumeasiyanS/)
 
-[![Location](https://img.shields.io/badge/📍_Based-Trincomalee%20%2F%20Colombo%2C%20Sri%20Lanka-f43f5e?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/📍_Based-Sri%20Lanka-f43f5e?style=for-the-badge)](#)
 [![Open To Work](https://img.shields.io/badge/🟢_Open%20To-Software%20•%20AI%20•%20Product%20Eng-22c55e?style=for-the-badge)](#-lets-connect)
 [![Projects](https://img.shields.io/badge/🚀_Projects%20Shipped-34-f59e0b?style=for-the-badge)](#-the-systems-ive-shipped-all-34-of-them)
 [![Awards](https://img.shields.io/badge/🏆_Awards-4-a855f7?style=for-the-badge)](#-the-bag-awards--recognition)
