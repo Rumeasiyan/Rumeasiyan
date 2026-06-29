@@ -18,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@rumeasiyan__s-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rumeasiyan_s/)
 [![Facebook](https://img.shields.io/badge/👥_Facebook-RumeasiyanS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RumeasiyanS/)
 
-[![Location](https://img.shields.io/badge/📍_Based-Sri%20Lanka-f43f5e?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/📍_Based-Trincomalee%20%2F%20Colombo%2C%20Sri%20Lanka-f43f5e?style=for-the-badge)](#)
 [![Open To Work](https://img.shields.io/badge/🟢_Open%20To-Software%20•%20AI%20•%20Product%20Eng-22c55e?style=for-the-badge)](#-lets-connect)
 [![Projects](https://img.shields.io/badge/🚀_Projects%20Shipped-34-f59e0b?style=for-the-badge)](#-the-systems-ive-shipped-all-34-of-them)
 [![Awards](https://img.shields.io/badge/🏆_Awards-4-a855f7?style=for-the-badge)](#-the-bag-awards--recognition)
@@ -151,57 +151,74 @@ University of Westminster (via IIT Sri Lanka) · 2022 – 2026<br/>
 
 > this is not a side-project dump. these are real systems for real orgs 💀
 
-### 🏛️ public administration & governance
-
-> building for governments differently 🏛️ not just frontend — full operational systems
-
-| # | project | what it does | org |
-|---|---------|-------------|-----|
-| 1 | **EMS360** 🎓 | AI-powered education management ecosystem — academics, HR, infrastructure, finance, analytics. published at BP-IPAG 2025 | Ministry of Education, EP |
-| 2 | **SCOApp** 🏢 | smart cloud office platform — correspondence workflows, appointments, citizen-facing services, leadership dashboards. published at BP-IPAG 2025 | Ministry of Education, EP |
-| 3 | **ResolveQ** ⚖️ | AI-powered complaint management for governance. won awards. got published. different era 😤 | Ministry of Education, EP |
-| 4 | **Appointment System** 🗓️ | visitor pre-registration + token-based public service flow | Ministry of Education, EP |
-| 5 | **SurvQ** 📋 | structured survey and feedback collection for institutional workflows | Ministry of Education, EP |
-
 ### 💰 capital intelligence & financial systems
 
 > money stuff but make it smart 📊
 
 | # | project | what it does | org |
 |---|---------|-------------|-----|
-| 6 | **Global Exchange** 💱 | real-time exchange rate and currency conversion platform | Quantum Plus |
-| 7 | **TradeLens** 📊 | AI-powered market insight and technical analysis platform. the charts literally speak | Quantum Plus |
-| 8 | **SettlementFlow** 🧾 | settlement and reconciliation engine for finance operations | Quantum Plus |
-| 9 | **FinLA** 🤖 | AI-powered financial reporting and decision support for local authorities | Quantum Plus |
-| 10 | **SYNQ** 📡 | research-led market signal and directional forecasting system. it predicts things. scary good | Quantum Plus |
+| 1 | **Global Exchange** 💱 | live exchange rate visibility, currency comparison and conversion | Global Exchange Pvt Ltd |
+| 2 | **TradeLens** 📊 | AI-powered market insight and technical analysis platform. the charts literally speak | Quantum Plus |
+| 3 | **SettlementFlow** 🧾 | settlement and reconciliation engine — lifecycle tracking, exception handling, audit-ready | Quantum Plus |
+| 4 | **SYNQ** 📡 | research-led market signal and directional forecasting. probability-led market interpretation | Quantum Plus |
+| 5 | **FinLA** 🤖 | AI-powered financial reporting, automated decision-support analytics, excel ingestion + forecasting | The Asia Foundation |
 
-### 🚀 startup & commercial platforms
+### 🏛️ public administration & governance
 
-> the builder arc. products from scratch to prod 🛠️
-
-| # | project | what it does | org |
-|---|---------|-------------|-----|
-| 11 | **ScaleQ** 🌱 | startup ecosystem platform — founders, investors, talent, all in one place | ScaleQ |
-| 12 | **WyreNFC** 📲 | smart identity, access & engagement built on NFC. tap tap done | Wyre NFC |
-| 13 | **Gear UP** 🏆 | sports court & activity booking platform with full operational dashboards | Gear UP |
-| 14 | **RollCall** 🎲 | community-based tabletop gaming meetup and event platform → [rollcall.lk](https://rollcall.lk) | Independent |
-| 15 | **RotaQ** 🗃️ | workforce roster and leave management. HR but make it not painful | Independent |
-| 16 | **Srvish** 🏪 | unified business command center — commerce, booking, CRM, analytics in one platform | Independent |
-| 17 | **LyncSeat** 🚌 | bus booking and operator workflow management platform | Independent |
-| 18 | **Leave a Mark** 🎨 | creative/marketing campaign brand concept → [leaveamark.ink](https://leaveamark.ink) | Independent |
-| 19 | **Mail Management System (MMS)** 📬 | secure incoming/outgoing correspondence tracking, assignment, and reporting | Ministry of Education, EP |
-
-### 🧪 education & applied AI
-
-> where the nerdy meets the useful 🤓
+> building for governments differently — full operational systems, not just landing pages 💀
 
 | # | project | what it does | org |
 |---|---------|-------------|-----|
-| 20 | **EDLA** 📋 | education data + learning analysis — fast exam intelligence pipeline | Independent |
-| 21 | **ChemNexus AI** ⚗️ | AI-powered chemistry learning platform for students. science but cooler. won **National Ingenuity Award 2025** | Independent |
-| 22 | **IES** 🌐 | international examination services platform | Independent |
+| 6 | **EMS360** 🎓 | province-wide education management — 1,128 schools, 22,130+ staff profiles, AI analytics. published at BP-IPAG 2025 | Ministry of Education, EP |
+| 7 | **SCOApp** 🏢 | smart cloud office — correspondence, appointments, citizen CRM, SMS workflows, leadership dashboards. published at BP-IPAG 2025 | Ministry of Education, EP |
+| 8 | **SurvQ** 📋 | offline-first citizen satisfaction survey platform with GPS capture and tri-lingual support | The Asia Foundation |
+| 9 | **Cultural Affairs Management System** 🎭 | digital registry for artists, cultural clubs, awards, geo-tagging, and heritage workflows | Department of Cultural Affairs |
+| 10 | **Appointment System** 🗓️ | visitor pre-registration + digital token issuance to reduce public service wait times | Ministry of Education, EP |
+| 11 | **Mail Management System (MMS)** 📬 | secure correspondence tracking, automated routing, role-based access, real-time reporting | Ministry of Education, EP |
 
-> more systems in the vault not listed here 👀 34 total shipped. ask me.
+### 🤝 community, membership & social impact
+
+> building platforms for communities, causes, and the people running them 🌍
+
+| # | project | what it does | org |
+|---|---------|-------------|-----|
+| 12 | **Scout.lk** 🏕️ | national scouting membership and engagement platform | Scouting / Membership Ecosystem |
+| 13 | **NexScout LK** 🧭 | scout operations platform — member management, program coordination, activity dashboards | Scouting Operations |
+| 14 | **Scout Relief** 🤝 | digital giving and campaign platform for fundraising and rapid-response donation drives | Fundraising / Social Impact |
+| 15 | **PAMS** 🏅 | President Award management — participant lifecycle, progress tracking, recognition workflows | Awards / Youth Development |
+| 16 | **35th National Rover Scout Moot** 🏔️ | large-scale event registration and participant management for 35th national moot | Event Operations |
+| 17 | **ScaleQ** 🌱 | startup ecosystem platform — founders, investors, and talent discovery in one place | Startup Ecosystem |
+| 18 | **RollCall** 🎲 | community event and participation management platform → [rollcall.lk](https://rollcall.lk) | Community Events |
+| 19 | **Sri Luxmi Narayana Perumal Foundation** 🏛️ | foundation digital presence, activity visibility, and structured public communication | Foundation / Community |
+| 20 | **TSSA UK Online Registration Portal** 🌐 | participant onboarding and registration digitization for events and program submissions | TSSA UK |
+
+### 🎓 education, assessment & institutional platforms
+
+> where the nerdy meets the actually useful 🤓
+
+| # | project | what it does | org |
+|---|---------|-------------|-----|
+| 21 | **EDLA** 📋 | exam data + learning analytics — converts performance data into insight for academic planners | Education Analytics |
+| 22 | **ChemNexus** ⚗️ | AI-powered chemistry learning and assessment. won **National Ingenuity Award 2025** 🏅 | Education Technology |
+| 23 | **IES** 🌐 | international examination services — candidate workflows, exam operations, service access | Examination Services |
+| 24 | **T/R.K.M. Sri Koneswara Hindu College Platform** 🏫 | institutional digital presence and structured communication platform | T/R.K.M. Sri Koneswara Hindu College |
+
+### 🚀 commercial growth, smart access & predictive operations
+
+> the builder arc — from smart access to AI sales intelligence 🛠️
+
+| # | project | what it does | org |
+|---|---------|-------------|-----|
+| 25 | **RotaQ** 🗃️ | workforce roster, scheduling, leave approvals, compliance reporting. HR but make it not painful | Workforce Operations |
+| 26 | **Srvish** 🏪 | unified business command center — commerce, booking, CRM, and analytics. zero fragmentation | Business Operations |
+| 27 | **WyreNFC** 📲 | NFC-powered smart identity, access, profile workflows, and engagement analytics | Wyre NFC |
+| 28 | **LeadQ** 🎯 | AI lead intelligence — lead qualification, opportunity visibility, sales-enablement workflows | Commercial Intelligence |
+| 29 | **AttendanceIQ** 🏥 | clinical no-show prediction + scheduling insight for proactive attendance-risk assessment | Healthcare Operations |
+| 30 | **WeatherCraftAI** 🌦️ | weather intelligence companion — turns environmental data into decision-aware planning support | Applied Intelligence |
+| 31 | **Aroma & Petals** 💐 | personalized gifting and digital ordering platform with customization and checkout flows | Digital Commerce |
+| 32 | **Theevanni Resort Platform** 🏨 | hospitality experience platform — guest communication, digital presence, brand presentation | Theevanni Resort |
+| 33 | **Brisbane Nutrition Hub Platform** 🥗 | nutrition services and client engagement — wellness-oriented professional digital presence | Brisbane Nutrition Hub |
+| 34 | **Sea Lotus Park Platform** 🌿 | visitor experience platform — public visibility, park info, visitor communication | Sea Lotus Park |
 
 ---
 
