@@ -4,7 +4,7 @@
 
 ### aka **Rumeasiyan** — the guy who ships real systems, not demos 🛠️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=980&lines=Building+cool+things+that+actually+solve+real+problems+🚀;Turning+chaotic+operations+into+clean+software+systems+✨;Shipping+across+govtech%2C+fintech%2C+edtech+%26+more+fr+fr;Designing+AI-assisted+platforms+with+real-world+impact+🤖;Founder+mindset+%2B+engineer+execution+%2B+architect+brain+🧠;35+projects+shipped+•+6+awards+•+4+publications+🏆)](https://rumeasiyan.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=980&lines=Building+cool+things+that+actually+solve+real+problems+🚀;Turning+chaotic+operations+into+clean+software+systems+✨;Shipping+across+govtech%2C+fintech%2C+edtech+%26+more+fr+fr;Designing+AI-assisted+platforms+with+real-world+impact+🤖;Founder+mindset+%2B+engineer+execution+%2B+architect+brain+🧠;55+projects+shipped+•+6+awards+•+4+publications+🏆)](https://rumeasiyan.com)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 [![Location](https://img.shields.io/badge/📍_Based-Trincomalee%20%2F%20Colombo%2C%20Sri%20Lanka-f43f5e?style=for-the-badge)](#)
 [![Open To Work](https://img.shields.io/badge/🟢_Open%20To-Software%20•%20AI%20•%20Product%20Eng-22c55e?style=for-the-badge)](#-lets-connect)
-[![Projects](https://img.shields.io/badge/🚀_Projects%20Shipped-35-f59e0b?style=for-the-badge)](#-the-systems-ive-shipped-all-35-of-them)
+[![Projects](https://img.shields.io/badge/🚀_Projects%20Shipped-55-f59e0b?style=for-the-badge)](https://rumeasiyan.com/#projects)
 [![Awards](https://img.shields.io/badge/🏆_Awards-6-a855f7?style=for-the-badge)](#-the-bag-awards--recognition)
 
 </div>
@@ -41,7 +41,7 @@ basically:
 - ⚙️ i build across backend, frontend, infra, data, and AI workflows — don't put me in a box
 - 🏗️ i care deeply about architecture, maintainability, and product usefulness
 - 🚀 i'm deeply into startup building, public-sector digital transformation, and impact-driven tech
-- 🏆 6 national awards, 4 publications, 35+ shipped systems — this is not a resume glow-up, this is the receipt
+- 🏆 6 national awards, 4 publications, 55+ shipped systems — this is not a resume glow-up, this is the receipt
 - 📍 building out of Sri Lanka, but the work speaks globally
 
 > spoiler: i don't just write code. i figure out what should exist and why, then go build it properly 😌
@@ -163,95 +163,28 @@ Combined Maths, Physics, Chemistry · 2008 – 2022<br/>
 
 ---
 
-## ⭐ the featured seven (start here)
+## ⭐ featured work (start here)
 
-> if you only look at seven, make it these 👇
+> 55 systems shipped across 5 domains. here are the ones that hit hardest 👇
 
-| project | why it hits |
-|---------|-------------|
-| 🤖 **FinLA** | AI financial reporting & decision support — **NIA 2026, Fintech & Banking** 🏅 |
-| 🏢 **SCOApp** | smart cloud office for govt — **NIA 2026, Government** 🏅 + published at BP-IPAG 2025 |
-| 📋 **SurvQ** | offline-first citizen survey with GPS capture, tri-lingual |
-| 🧾 **SettlementFlow** | settlement & reconciliation engine, audit-ready |
-| 🎓 **EMS360** | 1,128 schools, 22,130+ staff, AI analytics. **BP-IPAG 2025 winner** 🏅 + published |
-| 🎭 **Cultural Affairs Management System** | artist & heritage registry with geo-tagging |
-| 📊 **EDLA** | exam datasets → insight in seconds |
+| project | why it hits | domain |
+|---------|-------------|--------|
+| 🤖 **FinLA** | AI financial reporting & decision support — **NIA 2026, Fintech & Banking** 🏅 | finance |
+| 🏢 **SCOApp** | smart cloud office for govt — **NIA 2026, Government** 🏅 + published at BP-IPAG 2025 | govtech |
+| 🎓 **EMS360** | 1,128 schools, 22,130+ staff, AI analytics. **BP-IPAG 2025 winner** 🏅 + published | govtech |
+| 📋 **SurvQ** | offline-first citizen survey with GPS capture, tri-lingual | govtech |
+| 🧾 **SettlementFlow** | settlement & reconciliation engine, audit-ready | finance |
+| 🎭 **Cultural Affairs Management System** | artist & heritage registry with geo-tagging | govtech |
+| 📊 **EDLA** | exam datasets → insight in seconds | edtech |
+| 🔒 **AI Privacy Consultant** | AI PII detection & GDPR compliance analytics across databases | compliance |
+| 🚫 **AI Spoiler Blocker** | Gemini-powered real-time spoiler blocking on Reddit & X | consumer AI |
+| 📦 **Carton Cost Calculation** | automated carton costing & vendor optimization for apparel mfg | supply chain |
+| 🕵️ **Cipher** | AI sentiment crawler for apparel e-commerce reviews | commerce intel |
+| ✅ **Competency Assessment** | TVET competency evaluation — mobile assessor app + desktop mgmt | edtech |
 
----
+> 🗂️ **the full catalogue — all 55, filterable by domain — lives on the portfolio → [rumeasiyan.com/#projects](https://rumeasiyan.com/#projects)**
 
-## 🚀 the systems i've shipped (all 35 of them)
-
-> this is not a side-project dump. these are real systems for real orgs 💀
-
-### 💰 capital intelligence & financial systems
-
-> money stuff but make it smart 📊
-
-| # | project | what it does | org |
-|---|---------|-------------|-----|
-| 1 | **Global Exchange** 💱 | live exchange rate visibility, currency comparison and conversion | Global Exchange Pvt Ltd |
-| 2 | **TradeLens** 📊 | AI-powered market insight and technical analysis platform. the charts literally speak | Quantum Plus |
-| 3 | **SettlementFlow** 🧾 | settlement and reconciliation engine — lifecycle tracking, exception handling, audit-ready | Quantum Plus |
-| 4 | **SYNQ** 📡 | research-led market signal and directional forecasting. probability-led market interpretation | Quantum Plus |
-| 5 | **FinLA** 🤖 | AI-powered financial reporting, automated decision-support analytics, excel ingestion + forecasting. won **National Ingenuity Award 2026** 🏅 | The Asia Foundation |
-
-### 🏛️ public administration & governance
-
-> building for governments differently — full operational systems, not just landing pages 💀
-
-| # | project | what it does | org |
-|---|---------|-------------|-----|
-| 6 | **EMS360** 🎓 | province-wide education management — 1,128 schools, 22,130+ staff profiles, AI analytics. won **BP-IPAG 2025** 🏅 + published | Ministry of Education, EP |
-| 7 | **SCOApp** 🏢 | smart cloud office — correspondence, appointments, citizen CRM, SMS workflows, leadership dashboards. won **NIA 2026 (Government)** 🏅, published at BP-IPAG 2025 | Ministry of Education, EP |
-| 8 | **ResolveQ** 🗣️ | AI-powered complaint management — centralized grievance workflows, citizen-facing tracking, AI chatbot for trend analysis. won **BP-IPAG 2025** 🏅 + published | Ministry of Education, EP |
-| 9 | **SurvQ** 📋 | offline-first citizen satisfaction survey platform with GPS capture and tri-lingual support | The Asia Foundation |
-| 10 | **Cultural Affairs Management System** 🎭 | digital registry for artists, cultural clubs, awards, geo-tagging, and heritage workflows | Department of Cultural Affairs |
-| 11 | **Appointment System** 🗓️ | visitor pre-registration + digital token issuance to reduce public service wait times | Ministry of Education, EP |
-| 12 | **Mail Management System (MMS)** 📬 | secure correspondence tracking, automated routing, role-based access, real-time reporting | Ministry of Education, EP |
-
-### 🤝 community, membership & social impact
-
-> building platforms for communities, causes, and the people running them 🌍
-
-| # | project | what it does | org |
-|---|---------|-------------|-----|
-| 13 | **Scout.lk** 🏕️ | national scouting membership and engagement platform | Scouting / Membership Ecosystem |
-| 14 | **NexScout LK** 🧭 | scout operations platform — member management, program coordination, activity dashboards | Scouting Operations |
-| 15 | **Scout Relief** 🤝 | digital giving and campaign platform for fundraising and rapid-response donation drives | Fundraising / Social Impact |
-| 16 | **PAMS** 🏅 | President Award management — participant lifecycle, progress tracking, recognition workflows | Awards / Youth Development |
-| 17 | **35th National Rover Scout Moot** 🏔️ | large-scale event registration and participant management for 35th national moot | Event Operations |
-| 18 | **ScaleQ** 🌱 | startup ecosystem platform — founders, investors, and talent discovery in one place | Startup Ecosystem |
-| 19 | **RollCall** 🎲 | community event and participation management platform → [rollcall.lk](https://rollcall.lk) | Community Events |
-| 20 | **Sri Luxmi Narayana Perumal Foundation** 🏛️ | foundation digital presence, activity visibility, and structured public communication | Foundation / Community |
-| 21 | **TSSA UK Online Registration Portal** 🌐 | participant onboarding and registration digitization for events and program submissions | TSSA UK |
-
-### 🎓 education, assessment & institutional platforms
-
-> where the nerdy meets the actually useful 🤓
-
-| # | project | what it does | org |
-|---|---------|-------------|-----|
-| 22 | **EDLA** 📋 | exam data + learning analytics — converts performance data into insight for academic planners | Education Analytics |
-| 23 | **ChemNexus** ⚗️ | AI-powered chemistry learning and assessment. won **National Ingenuity Award 2025** 🏅 + **BP-IPAG 2025** 🏅 + published | Education Technology |
-| 24 | **IES** 🌐 | international examination services — candidate workflows, exam operations, service access | Examination Services |
-| 25 | **T/R.K.M. Sri Koneswara Hindu College Platform** 🏫 | institutional digital presence and structured communication platform | T/R.K.M. Sri Koneswara Hindu College |
-
-### 🚀 commercial growth, smart access & predictive operations
-
-> the builder arc — from smart access to AI sales intelligence 🛠️
-
-| # | project | what it does | org |
-|---|---------|-------------|-----|
-| 26 | **RotaQ** 🗃️ | workforce roster, scheduling, leave approvals, compliance reporting. HR but make it not painful | Workforce Operations |
-| 27 | **Srvish** 🏪 | unified business command center — commerce, booking, CRM, and analytics. zero fragmentation | Business Operations |
-| 28 | **WyreNFC** 📲 | NFC-powered smart identity, access, profile workflows, and engagement analytics | Wyre NFC |
-| 29 | **LeadQ** 🎯 | AI lead intelligence — lead qualification, opportunity visibility, sales-enablement workflows | Commercial Intelligence |
-| 30 | **AttendanceIQ** 🏥 | clinical no-show prediction + scheduling insight for proactive attendance-risk assessment | Healthcare Operations |
-| 31 | **WeatherCraftAI** 🌦️ | weather intelligence companion — turns environmental data into decision-aware planning support | Applied Intelligence |
-| 32 | **Aroma & Petals** 💐 | personalized gifting and digital ordering platform with customization and checkout flows | Digital Commerce |
-| 33 | **Theevanni Resort Platform** 🏨 | hospitality experience platform — guest communication, digital presence, brand presentation | Theevanni Resort |
-| 34 | **Brisbane Nutrition Hub Platform** 🥗 | nutrition services and client engagement — wellness-oriented professional digital presence | Brisbane Nutrition Hub |
-| 35 | **Sea Lotus Park Platform** 🌿 | visitor experience platform — public visibility, park info, visitor communication | Sea Lotus Park |
+**the rest, by domain:** 💰 capital intelligence & finance · 🏛️ public administration & governance · 🤝 community, membership & social impact · 🎓 education & assessment · 🚀 commercial growth, smart access & predictive ops — spanning **55 platforms** from AI market terminals and settlement engines to govtech ecosystems, scout operations, and NFC smart-access.
 
 ---
 
@@ -517,7 +450,7 @@ _from 🇱🇰 to the world — one commit at a time_
 ---
 
 ```
-35 projects shipped  •  6 active roles  •  6 national awards  •  4 publications  •  0 chill
+55 projects shipped  •  6 active roles  •  6 national awards  •  4 publications  •  0 chill
 ```
 
 ---
