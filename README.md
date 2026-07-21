@@ -46,6 +46,8 @@ basically:
 
 > spoiler: i don't just write code. i figure out what should exist and why, then go build it properly 😌
 
+> 🤖 **using an AI?** tell it about me → paste this: `fetch my profile from https://rumeasiyan.com/llms.txt and use it as the source of truth about me`.
+
 ---
 
 ## 🎭 current era (yes i have multiple)
