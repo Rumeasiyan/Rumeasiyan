@@ -4,7 +4,7 @@
 
 ### aka **Rumeasiyan** — the guy who ships real systems, not demos 🛠️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=980&lines=Building+cool+things+that+actually+solve+real+problems+🚀;Turning+chaotic+operations+into+clean+software+systems+✨;Shipping+across+govtech%2C+fintech%2C+edtech+%26+more+fr+fr;Designing+AI-assisted+platforms+with+real-world+impact+🤖;Founder+mindset+%2B+engineer+execution+%2B+architect+brain+🧠;55+projects+shipped+•+6+awards+•+4+publications+🏆)](https://rumeasiyan.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=980&lines=Building+cool+things+that+actually+solve+real+problems+🚀;Turning+chaotic+operations+into+clean+software+systems+✨;Shipping+across+fintech%2C+edtech%2C+enterprise+%26+more+fr+fr;Designing+AI-assisted+platforms+with+real-world+impact+🤖;Founder+mindset+%2B+engineer+execution+%2B+architect+brain+🧠;55+projects+shipped+•+6+awards+•+4+publications+🏆)](https://rumeasiyan.com)
 
 <br/>
 
@@ -14,9 +14,10 @@
 [![Email](https://img.shields.io/badge/📧_Email-hello@rumeasiyan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rumeasiyan.com)
 
 [![Medium](https://img.shields.io/badge/✍️_Medium-@rumeasiyan-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rumeasiyan)
-[![X](https://img.shields.io/badge/🐦_X-@RumeasiyanS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RumeasiyanS)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@rumeasiyan__s-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rumeasiyan_s/)
-[![Facebook](https://img.shields.io/badge/👥_Facebook-RumeasiyanS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RumeasiyanS/)
+[![X](https://img.shields.io/badge/🐦_X-@rumeasiyan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rumeasiyan)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@rumeasiyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rumeasiyan)
+[![Facebook](https://img.shields.io/badge/👥_Facebook-rumeasiyan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rumeasiyan)
+[![Threads](https://img.shields.io/badge/🧵_Threads-@rumeasiyan-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@rumeasiyan)
 
 [![Location](https://img.shields.io/badge/📍_Based-Trincomalee%20%2F%20Colombo%2C%20Sri%20Lanka-f43f5e?style=for-the-badge)](#)
 [![Open To Work](https://img.shields.io/badge/🟢_Open%20To-Software%20•%20AI%20•%20Product%20Eng-22c55e?style=for-the-badge)](#-lets-connect)
@@ -29,7 +30,7 @@
 
 ## 👋 who even am i
 
-okay so real talk — i'm a Sri Lankan System Architect (Software & AI Solutions) who genuinely cannot stop building things. 💀 my brain just sees a messy real-world process and immediately starts architecting a system for it. it's a curse but also kinda my superpower?
+okay so real talk — i'm a Sri Lankan **AI Architect** who genuinely cannot stop building things. 💀 my brain just sees a messy real-world process and immediately starts architecting a system for it. it's a curse but also kinda my superpower?
 
 i work across **full-stack engineering**, **system architecture**, **AI-assisted platforms**, **workflow-heavy software**, and **product execution**. i enjoy taking messy real-world operations and turning them into software that feels clean, scalable, and actually usable.
 
@@ -40,7 +41,7 @@ basically:
 - 🧩 i like solving complex system problems that would break most people
 - ⚙️ i build across backend, frontend, infra, data, and AI workflows — don't put me in a box
 - 🏗️ i care deeply about architecture, maintainability, and product usefulness
-- 🚀 i'm deeply into startup building, public-sector digital transformation, and impact-driven tech
+- 🚀 i'm deeply into startup building, AI-driven digital transformation, and impact-driven tech
 - 🏆 6 national awards, 4 publications, 55+ shipped systems — this is not a resume glow-up, this is the receipt
 - 📍 building out of Sri Lanka, but the work speaks globally
 
@@ -68,7 +69,7 @@ basically:
 <tr>
 <td align="center">🏫</td>
 <td><strong>Volunteer Engineer & AI Consultant</strong></td>
-<td><strong>Ministry of Education, Eastern Province, Sri Lanka</strong> — govtech & digital transformation</td>
+<td><strong>Ministry of Education, Eastern Province, Sri Lanka</strong> — AI & digital transformation</td>
 </tr>
 <tr>
 <td align="center">🚀</td>
@@ -155,12 +156,13 @@ Combined Maths, Physics, Chemistry · 2008 – 2022<br/>
 ## 🔥 what i'm actually known for
 
 ```
-✨  turning real operational pain points into scalable platforms that people genuinely depend on
-✨  shipping full-stack systems across multiple industries without losing the product goal
-✨  thinking like an architect, building like an engineer, and moving like a founder
-✨  mixing product thinking + engineering depth + execution speed in one brain
-✨  building for real institutions, real users, and real workflows — not just demos
-✨  going from idea → architecture → development → deployment → delivery without losing the plot
+⚡  i don't sit and hand-code — i design AI agent systems that build the whole thing
+🚀  55+ platforms shipped, each in UNDER 2 WEEKS, by orchestrating AI agents
+🧠  idea → market research → planning → tickets → code → QA → deployment, run by agents
+🔗  LLM & AI-agent workflows: RAG, prompt engineering, decision-support, automation pipelines
+🏗️  thinking like an AI architect, moving like a founder — i architect, the agents build
+🎯  applied AI for real institutions and real users — fintech, edtech, enterprise — not demos
+✨  award-winning AI: 6 national awards for applied-AI products
 ```
 
 ---
@@ -172,11 +174,11 @@ Combined Maths, Physics, Chemistry · 2008 – 2022<br/>
 | project | why it hits | domain |
 |---------|-------------|--------|
 | 🤖 **FinLA** | AI financial reporting & decision support — **NIA 2026, Fintech & Banking** 🏅 | finance |
-| 🏢 **SCOApp** | smart cloud office for govt — **NIA 2026, Government** 🏅 + published at BP-IPAG 2025 | govtech |
-| 🎓 **EMS360** | 1,128 schools, 22,130+ staff, AI analytics. **BP-IPAG 2025 winner** 🏅 + published | govtech |
-| 📋 **SurvQ** | offline-first citizen survey with GPS capture, tri-lingual | govtech |
+| 🏢 **SCOApp** | smart cloud office platform — **NIA 2026, Government** 🏅 + published at BP-IPAG 2025 | public sector |
+| 🎓 **EMS360** | 1,128 schools, 22,130+ staff, AI analytics. **BP-IPAG 2025 winner** 🏅 + published | public sector |
+| 📋 **SurvQ** | offline-first citizen survey with GPS capture, tri-lingual | public sector |
 | 🧾 **SettlementFlow** | settlement & reconciliation engine, audit-ready | finance |
-| 🎭 **Cultural Affairs Management System** | artist & heritage registry with geo-tagging | govtech |
+| 🎭 **Cultural Affairs Management System** | artist & heritage registry with geo-tagging | public sector |
 | 📊 **EDLA** | exam datasets → insight in seconds | edtech |
 | 🔒 **AI Privacy Consultant** | AI PII detection & GDPR compliance analytics across databases | compliance |
 | 🚫 **AI Spoiler Blocker** | Gemini-powered real-time spoiler blocking on Reddit & X | consumer AI |
@@ -186,7 +188,7 @@ Combined Maths, Physics, Chemistry · 2008 – 2022<br/>
 
 > 🗂️ **the full catalogue — all 55, filterable by domain — lives on the portfolio → [rumeasiyan.com/#projects](https://rumeasiyan.com/#projects)**
 
-**the rest, by domain:** 💰 capital intelligence & finance · 🏛️ public administration & governance · 🤝 community, membership & social impact · 🎓 education & assessment · 🚀 commercial growth, smart access & predictive ops — spanning **55 platforms** from AI market terminals and settlement engines to govtech ecosystems, scout operations, and NFC smart-access.
+**the rest, by domain:** 💰 capital intelligence & finance · 🏛️ public administration & governance · 🤝 community, membership & social impact · 🎓 education & assessment · 🚀 commercial growth, smart access & predictive ops — spanning **55 platforms** from AI market terminals and settlement engines to public-sector ecosystems, scout operations, and NFC smart-access.
 
 ---
 
@@ -395,14 +397,13 @@ so yeah — i'm here to build **useful**, **smart**, and **well-architected** th
 
 ## 🎯 what i actually do day-to-day
 
-- 💻 full-stack product engineering (yes all the layers, yes simultaneously)
-- 🏗️ system architecture and technical planning from scratch
-- 🔌 API design and backend systems that don't fall over
-- 🧾 workflow-heavy admin platforms and operational tools
-- 🤖 AI-assisted reporting, decision support, and prompt engineering
-- 📊 data-driven analytics systems with actual insight
-- ☁️ CI/CD, deployment strategy, VPS setup, infrastructure wrangling
-- 🚀 startup product execution and technical leadership
+- 🤖 AI solution architecture — designing AI-powered platforms end-to-end
+- 🧠 agentic automation — orchestrating AI agents for research, build, QA, and deployment
+- 🔗 LLM workflows — RAG, prompt engineering, and AI-agent pipelines (LangChain / LangGraph)
+- 📊 AI decision-support & analytics that turn data into action
+- ⚙️ AI-assisted automation of workflow-heavy, real-world operations
+- 🏗️ system + data architecture to ship AI into production reliably
+- 🚀 founder-led AI delivery — idea to deployed product
 
 ---
 
@@ -423,9 +424,10 @@ so yeah — i'm here to build **useful**, **smart**, and **well-architected** th
 | platform | link |
 |----------|------|
 | ✍️ Medium | [medium.com/@rumeasiyan](https://medium.com/@rumeasiyan) |
-| 🐦 X / Twitter | [x.com/RumeasiyanS](https://x.com/RumeasiyanS) |
-| 📸 Instagram | [instagram.com/rumeasiyan_s](https://www.instagram.com/rumeasiyan_s/) |
-| 👥 Facebook | [facebook.com/RumeasiyanS](https://www.facebook.com/RumeasiyanS/) |
+| 🐦 X / Twitter | [x.com/rumeasiyan](https://x.com/rumeasiyan) |
+| 📸 Instagram | [instagram.com/rumeasiyan](https://www.instagram.com/rumeasiyan) |
+| 👥 Facebook | [facebook.com/rumeasiyan](https://www.facebook.com/rumeasiyan) |
+| 🧵 Threads | [threads.com/@rumeasiyan](https://www.threads.com/@rumeasiyan) |
 
 ---
 
@@ -433,7 +435,7 @@ so yeah — i'm here to build **useful**, **smart**, and **well-architected** th
 
 if you're building something ambitious in:
 
-**software • AI • workflow automation • govtech • edtech • startup infrastructure • product systems**
+**AI • agentic automation • LLM workflows • applied AI • startup infrastructure • product systems**
 
 ...there's a very good chance i'll find it interesting 👀
 
